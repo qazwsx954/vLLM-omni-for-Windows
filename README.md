@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/33504317/README.md)
 # vLLM-omni-for-Windows
-可以在Windows上直接运行的vLLM-omni版本，无需经过WSL2和Docker，简化过程。本项目的GUI前端正在制作中，尚未完成，敬请期待。
+可以在Windows上直接运行的vLLM-omni版本，无需经过WSL2和Docker，简化过程。本项目的GUI前端正在制作中，尚未完成，敬请期待。Bilibili哔站账号：战双单推人；也许名字怪怪的，不过用惯了也懒得换名字了。
 # vLLM-Omni 0.30.0 for Windows
 
 在 Windows 上运行 **vLLM 0.30.0** 与 **vLLM-Omni 0.30.0** 的完整移植：补齐平台缺失能力、修复
